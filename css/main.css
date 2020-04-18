@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: dimgrey;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: gray;
+    text-align: left;
+    border-radius: 10px 10px 10px 10px;
+    color: black
+}
+
+div{
+    display: block;
+    padding-right: 30px;
+    padding-left: 50px;
+    text-align: left;
+}
+
+p{
+    padding-right: 30px;
+    padding-left: 80px;
+}
+
+img{
+    border-radius: 50%;
+}
+
+form.row{
+    background-color: transparent;
+    display: table;
+    padding: 10px;
+}
